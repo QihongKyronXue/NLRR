@@ -6,7 +6,8 @@ Welcome to the repository for **NLRR**, an innovative decision-making framework 
 
 The NLRR framework is a cutting-edge approach tailored to enhance the efficiency and reliability of decision-making in autonomous vehicles. By leveraging state-of-the-art techniques, this framework aims to address critical challenges in the autonomous driving domain, including:
 
-- Real-time decision optimization
+- Reinforcement Learning training process optimization
+- Reward design improvement by large language models
 - Adaptive responses to dynamic environments
 - Robust handling of uncertainties and edge cases
 
